@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "React-Native Training",
+    "githubUrl": "https://github.com/jiblow/React-Native-Tranning.git"
   }
 }
